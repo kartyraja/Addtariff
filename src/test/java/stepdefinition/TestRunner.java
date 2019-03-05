@@ -8,7 +8,7 @@ package stepdefinition;
 
 	@RunWith(Cucumber.class)
 	@CucumberOptions(features = "D:\\workspace\\telecom\\src\\test\\resources\\telecom.feature",dryRun=false,glue = {"stepdefinition"}, plugin = {
-			"html:target1" } )
+			"html:target1" ,"json:src/test/resources/jsonReport.json"} )
 	public class TestRunner {
 
 	}
