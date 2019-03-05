@@ -76,7 +76,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 14225271316,
+  "duration": 46800908595,
   "status": "passed"
 });
 formatter.scenario({
@@ -120,7 +120,7 @@ formatter.match({
   "location": "HomepageSteps.user_in_home_page_and_click_Addtariff()"
 });
 formatter.result({
-  "duration": 55538733230,
+  "duration": 76383132999,
   "status": "passed"
 });
 formatter.match({
@@ -157,25 +157,25 @@ formatter.match({
   "location": "AddTariffSteps.fill_the_tariff_fees(String,String,String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 16333139589,
+  "duration": 37602279843,
   "status": "passed"
 });
 formatter.match({
   "location": "AddTariffSteps.submit_the_form()"
 });
 formatter.result({
-  "duration": 7496504284,
+  "duration": 25295150935,
   "status": "passed"
 });
 formatter.match({
   "location": "ValidateSteps.validate_the_outcomes()"
 });
 formatter.result({
-  "duration": 21756591,
+  "duration": 999232571,
   "status": "passed"
 });
 formatter.after({
-  "duration": 750358315,
+  "duration": 2004001743,
   "status": "passed"
 });
 });
